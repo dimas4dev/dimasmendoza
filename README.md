@@ -1,8 +1,6 @@
 # 👋 ¡Hola, soy Dimas Antonio Mendoza!
 
-<div align="center">
-  <img src="/api/placeholder/1200/400" alt="Banner personalizado - Desarrollador Frontend" />
-</div>
+---
 
 ## 👨‍💻 Sobre mí
 
@@ -11,7 +9,7 @@ Soy un **Desarrollador Frontend** especializado en interfaces web modernas utili
 - 🔭 Actualmente trabajo en **proyectos Frontend con React y Micro Frontends**
 - 🌱 Estoy aprendiendo **Astro y profundizando en AWS**
 - 👯 Busco colaborar en **proyectos de código abierto y soluciones web escalables**
-- 📫 Contáctame: **dimas4dev@ejemplo.com**
+- 📫 Contáctame: **damendoza98@gmail.com**
 
 ## 🚀 Proyectos en los que me gustaría colaborar
 
@@ -39,14 +37,6 @@ Soy un **Desarrollador Frontend** especializado en interfaces web modernas utili
 - Desarrollo de interfaces interactivas para educación en línea
 - Implementación de visualizaciones de datos educativos
 - Creación de sistemas de evaluación y seguimiento de aprendizaje
-
-## 🤝 Proyectos Voluntarios
-
-### Fullstack Developer | FaroPsicopedagogía | 2022 - 01/2025
-- Mantenimiento de sitio WordPress y desarrollo de aplicación web con NextJS
-
-### FullStack Developer | Local Church | 2024 - Presente
-- Aplicación web para control de asistencia usando ReactJS, TailwindCSS y ExpressJS
 
 ## 🎓 Educación
 
@@ -102,40 +92,12 @@ Soy un **Desarrollador Frontend** especializado en interfaces web modernas utili
 
 </div>
 
-## 📊 Estadísticas GitHub
-
-<div align="center">
-  <img src="/api/placeholder/495/195" alt="GitHub Stats" />
-  <img src="/api/placeholder/495/195" alt="Top Languages" />
-</div>
-
-## 🏆 Proyectos Destacados
-
-<div align="center">
-  <a href="https://github.com/dimas4dev/faropsicodepagogico">
-    <img src="/api/placeholder/400/180" alt="Faro Psicopedagogía" />
-  </a>
-  <a href="https://github.com/dimas4dev/church-attendance">
-    <img src="/api/placeholder/400/180" alt="Church Attendance App" />
-  </a>
-</div>
-
-### [Faro Psicopedagogía](https://github.com/dimas4dev/faropsicopedagogico)
-**Tecnologías:** NextJS, WordPress, React, TailwindCSS
-
-Desarrollo y mantenimiento de sitio web para organización psicopedagógica, incluyendo sistema de gestión de contenidos e interfaz moderna para mejor accesibilidad.
-
-### [Church Attendance App](https://github.com/dimas4dev/church-attendance)
-**Tecnologías:** ReactJS, TailwindCSS, ExpressJS, MongoDB
-
-Aplicación web para control y gestión de asistencia para iglesia local, con sistema de reportes y análisis de datos para facilitar la administración de la comunidad.
-
 ## 📫 Contáctame
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimas4dev/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimas4dev@ejemplo.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damendoza98@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dimas4dev)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://dimas4dev.com)
 
@@ -144,6 +106,5 @@ Aplicación web para control y gestión de asistencia para iglesia local, con si
 ---
 
 <div align="center">
-  <img src="/api/placeholder/800/100" alt="Footer Banner - Frontend Developer Specialist" />
   <p>⭐️ Dimas Antonio Mendoza | Desarrollador Frontend con +6 años de experiencia ❤️</p>
 </div>
