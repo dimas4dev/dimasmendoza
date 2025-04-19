@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Luis Carlos Sánchez!
+# 👋 ¡Hola, soy Dimas Antonio Mendoza Lozano!
 
 <div align="center">
   <img src="/api/placeholder/1200/400" alt="Banner personalizado - Desarrollador Frontend" />
@@ -9,9 +9,9 @@
 Soy un **Desarrollador Frontend** especializado en interfaces web modernas utilizando React.js y tecnologías relacionadas. Con **+6 años de experiencia**, destaco en implementación de componentes reutilizables, optimización de rendimiento y colaboración eficaz con equipos multidisciplinarios. Poseo sólido conocimiento en arquitecturas de micro frontends, gestión de estado y despliegue de aplicaciones web escalables.
 
 - 🔭 Actualmente trabajo en **proyectos Frontend con React y Micro Frontends**
-- 🌱 Estoy aprendiendo **Astro y profundizando en AWS**
+- 🌱 Estoy aprendiendo **Astro, Python, Next, Nest y profundizando en AWS**
 - 👯 Busco colaborar en **proyectos de código abierto y soluciones web escalables**
-- 📫 Contáctame: **luiscarlos@ejemplo.com**
+- 📫 Contáctame: **damendoza98@gmail.com**
 
 ## 🚀 Experiencia Profesional
 
@@ -161,5 +161,5 @@ Aplicación web para control y gestión de asistencia para iglesia local, con si
 
 <div align="center">
   <img src="/api/placeholder/800/100" alt="Footer Banner - Frontend Developer Specialist" />
-  <p>⭐️ Luis Carlos Sánchez | Desarrollador Frontend con +6 años de experiencia ❤️</p>
+  <p>⭐️ Dimas Antonio Mendoza | Desarrollador Frontend con +6 años de experiencia ❤️</p>
 </div>
