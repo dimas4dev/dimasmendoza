@@ -1,7 +1,4 @@
 # 👋 ¡Hola, soy Dimas Antonio Mendoza!
-
----
-
 ## 👨‍💻 Sobre mí
 
 Soy un **Desarrollador Frontend** especializado en interfaces web modernas utilizando React.js y tecnologías relacionadas. Con **+6 años de experiencia**, destaco en implementación de componentes reutilizables, optimización de rendimiento y colaboración eficaz con equipos multidisciplinarios. Poseo sólido conocimiento en arquitecturas de micro frontends, gestión de estado y despliegue de aplicaciones web escalables.
