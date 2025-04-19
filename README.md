@@ -1,73 +1,120 @@
-# 👋 ¡Hola, soy [Tu Nombre]!
+# 👋 ¡Hola, soy Luis Carlos Sánchez!
 
 <div align="center">
-  <img src="/api/placeholder/1200/400" alt="Banner personalizado" />
+  <img src="/api/placeholder/1200/400" alt="Banner personalizado - Desarrollador Frontend" />
 </div>
 
 ## 👨‍💻 Sobre mí
 
-Soy un apasionado desarrollador de software con experiencia en [menciona tu especialidad principal]. Me enfoco en [menciona tu enfoque principal, por ejemplo: crear soluciones innovadoras, resolver problemas complejos, desarrollar interfaces de usuario intuitivas, etc.].
+Soy un **Desarrollador Frontend** especializado en interfaces web modernas utilizando React.js y tecnologías relacionadas. Con **+6 años de experiencia**, destaco en implementación de componentes reutilizables, optimización de rendimiento y colaboración eficaz con equipos multidisciplinarios. Poseo sólido conocimiento en arquitecturas de micro frontends, gestión de estado y despliegue de aplicaciones web escalables.
 
-- 🔭 Actualmente trabajo en **[Empresa actual o proyecto personal]**
-- 🌱 Estoy aprendiendo **[Tecnologías o habilidades que estás aprendiendo actualmente]**
-- 👯 Busco colaborar en **[Tipos de proyectos que te interesan]**
-- 📫 Contáctame: **[tu-email@example.com]**
-- 📄 Conoce mis experiencias profesionales: [Enlace a tu CV o LinkedIn]
+- 🔭 Actualmente trabajo en **proyectos Frontend con React y Micro Frontends**
+- 🌱 Estoy aprendiendo **Astro y profundizando en AWS**
+- 👯 Busco colaborar en **proyectos de código abierto y soluciones web escalables**
+- 📫 Contáctame: **luiscarlos@ejemplo.com**
 
 ## 🚀 Experiencia Profesional
 
-### [Nombre de la Empresa] | [Cargo] | [Fechas]
-- [Logro o responsabilidad importante]
-- [Logro o responsabilidad importante]
-- [Logro o responsabilidad importante]
+### Frontend Engineer | Tuhabi | 04/2024 - 12/2024 | Bogotá
+- Colaboré en infraestructuras tecnológicas innovadoras, incluyendo infraestructura de Liquidez para Habicredit
+- Implementé soluciones con micro frontends usando module federation para mayor modularidad y escalabilidad
+- **Tecnologías:** React.js, Module Federation, Micro Frontends, TailwindCSS
 
-### [Nombre de la Empresa Anterior] | [Cargo] | [Fechas]
-- [Logro o responsabilidad importante]
-- [Logro o responsabilidad importante]
-- [Logro o responsabilidad importante]
+### Frontend Instructor | Key Code Education | 07/2024-09/2024 | Bogotá
+- Instructor en programa "Mujeres Digitales", formación especializada en React y Redux
+- Creé entorno de aprendizaje inclusivo fomentando colaboración e innovación
+- **Tecnologías:** React.js, Redux, JavaScript, HTML, CSS
+
+### Frontend Developer | LinkTIC | 07/2023 - 02/2024 | Bogotá
+- Desarrollé solución integral para procesos electorales con reportes de incidentes y capacitación
+- Implementé interfaz web responsiva (VueJS/Vuetify) y aplicación móvil (React/Capacitor)
+- **Tecnologías:** VueJS, Vuetify, React, Capacitor, APIs RESTful
+
+### Software Engineer | MercadoLibre | 07/2022 - 05/2023 | Bogotá
+- Trabajé en Mercado Shops con framework Nordic, maquetación y pruebas con JEST
+- Desarrollé proyectos backend utilizando Go
+- **Tecnologías:** Nordic Framework, JEST, Go, Git
+
+### Frontend Web Developer | TICSOCIAL | 02/2022 - 07/2022 | Bogotá
+- Optimicé aplicación web de servicios médicos oncológicos con Webpack
+- Diseñé interfaces siguiendo principios UX/UI para mejorar experiencia de pacientes
+- **Tecnologías:** ReactJS, Webpack, JavaScript, CSS/SASS
+
+### Front End Developer | ITGlobers | 06/2021 - 09/2021 | Bogotá
+- Trabajé con Framework VTEX integrando APIs para e-commerce (Carulla, Éxito)
+- Implementé integraciones con GraphQL optimizando consultas y rendimiento
+- **Tecnologías:** ReactJS, VTEX, GraphQL, APIs, E-commerce
+
+### BPM/SOA Developer | CORUS Consulting | 10/2018-05/2021 | Bogotá
+- Aseguré disponibilidad y seguridad de servidores Linux
+- Mantenimiento de servicios web Java y scripts SQL para bases Oracle
+- **Tecnologías:** Linux, Java, SQL, Oracle, Servicios Web
+
+### Fullstack Developer | Este Es Mi Bus S.A.S. | 01/2018 - 10/2018 | Bogotá
+- Diseñé plataforma para cálculos entre paradas de autobús
+- Desarrollé frontend, backend y base de datos
+- **Tecnologías:** PHP, HTML, CSS, SQL
+
+## 🤝 Proyectos Voluntarios
+
+### Fullstack Developer | FaroPsicopedagogía | 2022 - 01/2025
+- Mantenimiento de sitio WordPress y desarrollo de aplicación web con NextJS
+
+### FullStack Developer | Local Church | 2024 - Presente
+- Aplicación web para control de asistencia usando ReactJS, TailwindCSS y ExpressJS
 
 ## 🎓 Educación
 
-### [Nombre de la Universidad/Institución]
-- **Título:** [Tu título]
-- **Especialización:** [Tu especialización]
-- **Periodo:** [Fechas]
+### Frontend Developer | Platzi Master Program
+- **Periodo:** 07/2022-07/2023
+
+### Tecnólogo en Sistemas | Universidad Tecnológica del Bolívar
+- **Año:** 2018
+
+### Técnico en Programación SENA
+- **Periodo:** 01/2017-01/2018
 
 ## 💻 Tecnologías y Herramientas
 
 <div align="center">
 
-### Lenguajes de Programación
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material Design](https://img.shields.io/badge/-Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Bases de Datos
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Herramientas
+### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+### Testing
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+### Otros
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Micro Frontends](https://img.shields.io/badge/-Micro_Frontends-3399FF?style=for-the-badge&logo=react&logoColor=white)
 
 </div>
 
@@ -81,38 +128,38 @@ Soy un apasionado desarrollador de software con experiencia en [menciona tu espe
 ## 🏆 Proyectos Destacados
 
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="/api/placeholder/400/180" alt="Proyecto 1" />
+  <a href="https://github.com/yourusername/faropsicodepagogico">
+    <img src="/api/placeholder/400/180" alt="Faro Psicopedagogía" />
   </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="/api/placeholder/400/180" alt="Proyecto 2" />
+  <a href="https://github.com/yourusername/church-attendance">
+    <img src="/api/placeholder/400/180" alt="Church Attendance App" />
   </a>
 </div>
 
-### [Nombre del Proyecto 1](https://github.com/yourusername/project1)
-**Tecnologías:** [Lista de tecnologías utilizadas]
+### [Faro Psicopedagogía](https://github.com/yourusername/faropsicopedagogico)
+**Tecnologías:** NextJS, WordPress, React, TailwindCSS
 
-[Breve descripción del proyecto y tu rol en él]
+Desarrollo y mantenimiento de sitio web para organización psicopedagógica, incluyendo sistema de gestión de contenidos e interfaz moderna para mejor accesibilidad.
 
-### [Nombre del Proyecto 2](https://github.com/yourusername/project2)
-**Tecnologías:** [Lista de tecnologías utilizadas]
+### [Church Attendance App](https://github.com/yourusername/church-attendance)
+**Tecnologías:** ReactJS, TailwindCSS, ExpressJS, MongoDB
 
-[Breve descripción del proyecto y tu rol en él]
+Aplicación web para control y gestión de asistencia para iglesia local, con sistema de reportes y análisis de datos para facilitar la administración de la comunidad.
 
 ## 📫 Contáctame
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://tuportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiscarlossanchez/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiscarlos@ejemplo.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luiscarlossanchez)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://portfolioluiscarlos.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="/api/placeholder/800/100" alt="Footer Banner" />
-  <p>⭐️ De [Tu Nombre] con ❤️</p>
+  <img src="/api/placeholder/800/100" alt="Footer Banner - Frontend Developer Specialist" />
+  <p>⭐️ Luis Carlos Sánchez | Desarrollador Frontend con +6 años de experiencia ❤️</p>
 </div>
