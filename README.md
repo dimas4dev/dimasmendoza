@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Dimas Antonio Mendoza Lozano!
+# 👋 ¡Hola, soy Dimas Antonio Mendoza!
 
 <div align="center">
   <img src="/api/placeholder/1200/400" alt="Banner personalizado - Desarrollador Frontend" />
@@ -9,51 +9,36 @@
 Soy un **Desarrollador Frontend** especializado en interfaces web modernas utilizando React.js y tecnologías relacionadas. Con **+6 años de experiencia**, destaco en implementación de componentes reutilizables, optimización de rendimiento y colaboración eficaz con equipos multidisciplinarios. Poseo sólido conocimiento en arquitecturas de micro frontends, gestión de estado y despliegue de aplicaciones web escalables.
 
 - 🔭 Actualmente trabajo en **proyectos Frontend con React y Micro Frontends**
-- 🌱 Estoy aprendiendo **Astro, Python, Next, Nest y profundizando en AWS**
+- 🌱 Estoy aprendiendo **Astro y profundizando en AWS**
 - 👯 Busco colaborar en **proyectos de código abierto y soluciones web escalables**
-- 📫 Contáctame: **damendoza98@gmail.com**
+- 📫 Contáctame: **dimas4dev@ejemplo.com**
 
-## 🚀 Experiencia Profesional
+## 🚀 Proyectos en los que me gustaría colaborar
 
-### Frontend Engineer | Tuhabi | 04/2024 - 12/2024 | Bogotá
-- Colaboré en infraestructuras tecnológicas innovadoras, incluyendo infraestructura de Liquidez para Habicredit
-- Implementé soluciones con micro frontends usando module federation para mayor modularidad y escalabilidad
-- **Tecnologías:** React.js, Module Federation, Micro Frontends, TailwindCSS
+### Frameworks de UI/UX
+- Desarrollo de componentes reutilizables para frameworks modernos como React y Vue
+- Implementación de sistemas de diseño escalables con TailwindCSS
+- Creación de bibliotecas de componentes accesibles según estándares WCAG
 
-### Frontend Instructor | Key Code Education | 07/2024-09/2024 | Bogotá
-- Instructor en programa "Mujeres Digitales", formación especializada en React y Redux
-- Creé entorno de aprendizaje inclusivo fomentando colaboración e innovación
-- **Tecnologías:** React.js, Redux, JavaScript, HTML, CSS
+### Arquitecturas de Micro Frontends
+- Soluciones utilizando Module Federation para crear aplicaciones modulares
+- Implementación de estrategias de composición y orquestación de micro frontends
+- Optimización de rendimiento en arquitecturas distribuidas
 
-### Frontend Developer | LinkTIC | 07/2023 - 02/2024 | Bogotá
-- Desarrollé solución integral para procesos electorales con reportes de incidentes y capacitación
-- Implementé interfaz web responsiva (VueJS/Vuetify) y aplicación móvil (React/Capacitor)
-- **Tecnologías:** VueJS, Vuetify, React, Capacitor, APIs RESTful
+### Aplicaciones Web Progresivas (PWA)
+- Desarrollo de PWAs con características offline-first
+- Implementación de estrategias de caché y sincronización de datos
+- Mejora de experiencia de usuario en dispositivos móviles
 
-### Software Engineer | MercadoLibre | 07/2022 - 05/2023 | Bogotá
-- Trabajé en Mercado Shops con framework Nordic, maquetación y pruebas con JEST
-- Desarrollé proyectos backend utilizando Go
-- **Tecnologías:** Nordic Framework, JEST, Go, Git
+### Proyectos Open Source
+- Contribuciones a ecosistemas React/Vue/Astro
+- Desarrollo de plugins y extensiones para Vite y Webpack
+- Creación de herramientas para mejorar flujos de desarrollo frontend
 
-### Frontend Web Developer | TICSOCIAL | 02/2022 - 07/2022 | Bogotá
-- Optimicé aplicación web de servicios médicos oncológicos con Webpack
-- Diseñé interfaces siguiendo principios UX/UI para mejorar experiencia de pacientes
-- **Tecnologías:** ReactJS, Webpack, JavaScript, CSS/SASS
-
-### Front End Developer | ITGlobers | 06/2021 - 09/2021 | Bogotá
-- Trabajé con Framework VTEX integrando APIs para e-commerce (Carulla, Éxito)
-- Implementé integraciones con GraphQL optimizando consultas y rendimiento
-- **Tecnologías:** ReactJS, VTEX, GraphQL, APIs, E-commerce
-
-### BPM/SOA Developer | CORUS Consulting | 10/2018-05/2021 | Bogotá
-- Aseguré disponibilidad y seguridad de servidores Linux
-- Mantenimiento de servicios web Java y scripts SQL para bases Oracle
-- **Tecnologías:** Linux, Java, SQL, Oracle, Servicios Web
-
-### Fullstack Developer | Este Es Mi Bus S.A.S. | 01/2018 - 10/2018 | Bogotá
-- Diseñé plataforma para cálculos entre paradas de autobús
-- Desarrollé frontend, backend y base de datos
-- **Tecnologías:** PHP, HTML, CSS, SQL
+### Plataformas E-learning
+- Desarrollo de interfaces interactivas para educación en línea
+- Implementación de visualizaciones de datos educativos
+- Creación de sistemas de evaluación y seguimiento de aprendizaje
 
 ## 🤝 Proyectos Voluntarios
 
@@ -65,14 +50,13 @@ Soy un **Desarrollador Frontend** especializado en interfaces web modernas utili
 
 ## 🎓 Educación
 
-### Frontend Developer | Platzi Master Program
-- **Periodo:** 07/2022-07/2023
-
-### Tecnólogo en Sistemas | Universidad Tecnológica del Bolívar
-- **Año:** 2018
-
-### Técnico en Programación SENA
-- **Periodo:** 01/2017-01/2018
+<div align="center" style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
+  <img src="https://www.sena.edu.co/Style%20Library/alayout/images/logoSena.png" alt="SENA" width="200"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/LOGO-PLATZI-2023.svg/2560px-LOGO-PLATZI-2023.svg.png" alt="Platzi" width="200"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Universidad_Tecnol%C3%B3gica_de_Bol%C3%ADvar.png" alt="Universidad Tecnológica del Bolívar" width="200"/>
+</div>
 
 ## 💻 Tecnologías y Herramientas
 
@@ -128,20 +112,20 @@ Soy un **Desarrollador Frontend** especializado en interfaces web modernas utili
 ## 🏆 Proyectos Destacados
 
 <div align="center">
-  <a href="https://github.com/yourusername/faropsicodepagogico">
+  <a href="https://github.com/dimas4dev/faropsicodepagogico">
     <img src="/api/placeholder/400/180" alt="Faro Psicopedagogía" />
   </a>
-  <a href="https://github.com/yourusername/church-attendance">
+  <a href="https://github.com/dimas4dev/church-attendance">
     <img src="/api/placeholder/400/180" alt="Church Attendance App" />
   </a>
 </div>
 
-### [Faro Psicopedagogía](https://github.com/yourusername/faropsicopedagogico)
+### [Faro Psicopedagogía](https://github.com/dimas4dev/faropsicopedagogico)
 **Tecnologías:** NextJS, WordPress, React, TailwindCSS
 
 Desarrollo y mantenimiento de sitio web para organización psicopedagógica, incluyendo sistema de gestión de contenidos e interfaz moderna para mejor accesibilidad.
 
-### [Church Attendance App](https://github.com/yourusername/church-attendance)
+### [Church Attendance App](https://github.com/dimas4dev/church-attendance)
 **Tecnologías:** ReactJS, TailwindCSS, ExpressJS, MongoDB
 
 Aplicación web para control y gestión de asistencia para iglesia local, con sistema de reportes y análisis de datos para facilitar la administración de la comunidad.
@@ -150,10 +134,10 @@ Aplicación web para control y gestión de asistencia para iglesia local, con si
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiscarlossanchez/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiscarlos@ejemplo.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luiscarlossanchez)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://portfolioluiscarlos.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimas4dev/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimas4dev@ejemplo.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dimas4dev)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://dimas4dev.com)
 
 </div>
 
