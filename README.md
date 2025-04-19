@@ -41,11 +41,17 @@ I'm a **Frontend Developer** specialized in modern web interfaces using React.js
 ## 🎓 Education
 
 <div align="center" style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
-  <img src="https://www.sena.edu.co/Style%20Library/alayout/images/logoSena.png" alt="SENA" width="200"/>
+  <div style="width: 200px; height: 100px; display: flex; align-items: center; justify-content: center;">
+    <img src="https://www.sena.edu.co/Style%20Library/alayout/images/logoSena.png" alt="SENA" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
+  </div>
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/LOGO-PLATZI-2023.svg/2560px-LOGO-PLATZI-2023.svg.png" alt="Platzi" width="200"/>
+  <div style="width: 200px; height: 100px; display: flex; align-items: center; justify-content: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/LOGO-PLATZI-2023.svg/2560px-LOGO-PLATZI-2023.svg.png" alt="Platzi" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
+  </div>
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Universidad_Tecnol%C3%B3gica_de_Bol%C3%ADvar.png" alt="Universidad Tecnológica del Bolívar" width="200"/>
+  <div style="width: 200px; height: 100px; display: flex; align-items: center; justify-content: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Universidad_Tecnol%C3%B3gica_de_Bol%C3%ADvar.png" alt="Universidad Tecnológica del Bolívar" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
+  </div>
 </div>
 
 ## 💻 Technologies & Tools
