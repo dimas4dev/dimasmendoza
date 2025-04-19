@@ -1,57 +1,54 @@
-# 👋 ¡Hola, soy Dimas Antonio Mendoza!
-## 👨‍💻 Sobre mí
+# 👋 Hi, I'm Dimas Antonio Mendoza!
 
-Soy un **Desarrollador Frontend** especializado en interfaces web modernas utilizando React.js y tecnologías relacionadas. Con **+6 años de experiencia**, destaco en implementación de componentes reutilizables, optimización de rendimiento y colaboración eficaz con equipos multidisciplinarios. Poseo sólido conocimiento en arquitecturas de micro frontends, gestión de estado y despliegue de aplicaciones web escalables.
+---
 
-- 🔭 Actualmente trabajo en **proyectos Frontend con React y Micro Frontends**
-- 🌱 Estoy aprendiendo **Astro y profundizando en AWS**
-- 👯 Busco colaborar en **proyectos de código abierto y soluciones web escalables**
-- 📫 Contáctame: **damendoza98@gmail.com**
+## 👨‍💻 About Me
 
-## 🚀 Proyectos en los que me gustaría colaborar
+I'm a **Frontend Developer** specialized in modern web interfaces using React.js and related technologies. With **+6 years of experience**, I excel in implementing reusable components, performance optimization, and effective collaboration with multidisciplinary teams. I possess solid knowledge in micro frontends architectures, state management, and deploying scalable web applications.
 
-### Frameworks de UI/UX
-- Desarrollo de componentes reutilizables para frameworks modernos como React y Vue
-- Implementación de sistemas de diseño escalables con TailwindCSS
-- Creación de bibliotecas de componentes accesibles según estándares WCAG
+- 🔭 I'm currently working on **Frontend projects with React and Micro Frontends**
+- 🌱 I'm currently learning **Astro and deepening my knowledge in AWS**
+- 👯 I'm looking to collaborate on **open source projects and scalable web solutions**
+- 📫 Contact me: **damendoza98@gmail.com**
 
-### Arquitecturas de Micro Frontends
-- Soluciones utilizando Module Federation para crear aplicaciones modulares
-- Implementación de estrategias de composición y orquestación de micro frontends
-- Optimización de rendimiento en arquitecturas distribuidas
+## 🚀 Projects I'd Like to Collaborate On
 
-### Aplicaciones Web Progresivas (PWA)
-- Desarrollo de PWAs con características offline-first
-- Implementación de estrategias de caché y sincronización de datos
-- Mejora de experiencia de usuario en dispositivos móviles
+### UI/UX Frameworks
+- Development of reusable components for modern frameworks like React and Vue
+- Implementation of scalable design systems with TailwindCSS
+- Creation of accessible component libraries according to WCAG standards
 
-### Proyectos Open Source
-- Contribuciones a ecosistemas React/Vue/Astro
-- Desarrollo de plugins y extensiones para Vite y Webpack
-- Creación de herramientas para mejorar flujos de desarrollo frontend
+### Micro Frontend Architectures
+- Solutions using Module Federation to create modular applications
+- Implementation of composition and orchestration strategies for micro frontends
+- Performance optimization in distributed architectures
 
-### Plataformas E-learning
-- Desarrollo de interfaces interactivas para educación en línea
-- Implementación de visualizaciones de datos educativos
-- Creación de sistemas de evaluación y seguimiento de aprendizaje
+### Progressive Web Applications (PWA)
+- Development of PWAs with offline-first capabilities
+- Implementation of caching strategies and data synchronization
+- Enhancement of user experience on mobile devices
 
-## 🎓 Educación
+### Open Source Projects
+- Contributions to React/Vue/Astro ecosystems
+- Development of plugins and extensions for Vite and Webpack
+- Creation of tools to improve frontend development workflows
+
+### E-learning Platforms
+- Development of interactive interfaces for online education
+- Implementation of educational data visualizations
+- Creation of evaluation and learning tracking systems
+
+## 🎓 Education
 
 <div align="center" style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
-  <div style="width: 200px; height: 100px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://www.sena.edu.co/Style%20Library/alayout/images/logoSena.png" alt="SENA" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
-  </div>
+  <img src="https://www.sena.edu.co/Style%20Library/alayout/images/logoSena.png" alt="SENA" width="200"/>
   
-  <div style="width: 200px; height: 100px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/LOGO-PLATZI-2023.svg/2560px-LOGO-PLATZI-2023.svg.png" alt="Platzi" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
-  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/LOGO-PLATZI-2023.svg/2560px-LOGO-PLATZI-2023.svg.png" alt="Platzi" width="200"/>
   
-  <div style="width: 200px; height: 100px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Universidad_Tecnol%C3%B3gica_de_Bol%C3%ADvar.png" alt="Universidad Tecnológica del Bolívar" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
-  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Universidad_Tecnol%C3%B3gica_de_Bol%C3%ADvar.png" alt="Universidad Tecnológica del Bolívar" width="200"/>
 </div>
 
-## 💻 Tecnologías y Herramientas
+## 💻 Technologies & Tools
 
 <div align="center">
 
@@ -87,7 +84,7 @@ Soy un **Desarrollador Frontend** especializado en interfaces web modernas utili
 ### Testing
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-### Otros
+### Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -95,7 +92,7 @@ Soy un **Desarrollador Frontend** especializado en interfaces web modernas utili
 
 </div>
 
-## 📫 Contáctame
+## 📫 Contact Me
 
 <div align="center">
   
@@ -109,5 +106,5 @@ Soy un **Desarrollador Frontend** especializado en interfaces web modernas utili
 ---
 
 <div align="center">
-  <p>⭐️ Dimas Antonio Mendoza | Desarrollador Frontend con +6 años de experiencia ❤️</p>
+  <p>⭐️ Dimas Antonio Mendoza | Frontend Developer with +6 years of experience ❤️</p>
 </div>
