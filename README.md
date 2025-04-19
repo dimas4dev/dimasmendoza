@@ -38,11 +38,11 @@ Soy un **Desarrollador Frontend** especializado en interfaces web modernas utili
 ## 🎓 Educación
 
 <div align="center" style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
-  <img src="https://www.sena.edu.co/Style%20Library/alayout/images/logoSena.png" alt="SENA" width="200"/>
+  <img src="https://www.sena.edu.co/Style%20Library/alayout/images/logoSena.png" alt="SENA" width="200" height="100"/>
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/LOGO-PLATZI-2023.svg/2560px-LOGO-PLATZI-2023.svg.png" alt="Platzi" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/LOGO-PLATZI-2023.svg/2560px-LOGO-PLATZI-2023.svg.png" alt="Platzi" width="200" height="100"/>
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Universidad_Tecnol%C3%B3gica_de_Bol%C3%ADvar.png" alt="Universidad Tecnológica del Bolívar" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Universidad_Tecnol%C3%B3gica_de_Bol%C3%ADvar.png" alt="Universidad Tecnológica del Bolívar" width="200" height="100"/>
 </div>
 
 ## 💻 Tecnologías y Herramientas
